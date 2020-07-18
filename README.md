@@ -12,6 +12,7 @@ Additional features:
 - adjustment of phase shift led vs mag is possible
 - phase shift is adjusted dynamically <- THIS MAKES IT REALLY MORE INTERESTING TO WATCH
 
-
+# hardware requirements
++ 6 Potentiometers
 
 
